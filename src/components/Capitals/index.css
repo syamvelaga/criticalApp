@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.main-bg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #93c5fd;
+  min-height: 100vh;
+}
+.inner-bg {
+  background-color: white;
+  padding: 40px;
+  border-radius: 10px;
+}
+.select-bg {
+  padding: 10px;
+  margin-right: 10px;
+  outline-width: 0px;
+}
